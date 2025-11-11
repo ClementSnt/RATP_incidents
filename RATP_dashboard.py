@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(layout="wide", page_title="Dashboard incidents RATP")
 
 # Import des données
-df = pd.read_csv(r"/data/historique_incidents_theme.csv", sep=";")
+df = pd.read_csv("data/historique_incidents_theme.csv", sep=";")
 
 # Renommer les colonnes
 df = df.rename(columns={
