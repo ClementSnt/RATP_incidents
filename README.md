@@ -1,5 +1,7 @@
 # 🚇 RATP Incidents - NLP Classifier
 
+🔗 **[Accéder au dashboard interactif](https://ratp-incidents.streamlit.app/))**
+
 ## 🎯 Objectif du projet
 
 Les objectifs de ce projet sont de :
