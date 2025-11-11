@@ -1,6 +1,6 @@
 # 🚇 RATP Incidents - NLP Classifier
 
-🔗 **[Accéder au dashboard interactif](https://ratp-incidents.streamlit.app/))**
+🔗 **[Accéder au dashboard interactif](https://ratp-incidents.streamlit.app/)**
 
 ## 🎯 Objectif du projet
 
