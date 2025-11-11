@@ -124,7 +124,7 @@ mapping_df = pd.DataFrame({
 # Affichage complet des clusters 
 for theme in sorted(mapping_df["theme_final"].unique()):
     subset = sorted(mapping_df[mapping_df["theme_final"] == theme]["cause_originale"].tolist())
-    print(f"\n🟦 Thème : {theme} ({len(subset)} causes)")
+    print(f"Thème : {theme} ({len(subset)} causes)")
     for c in subset:
         print(f" - {c}")
 
